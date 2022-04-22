@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="ingrese_su_id_usuario">Ingrese su Id Usuario</string>
+    <string name="ingrese_nombre_corto">Ingrese Nombre Corto</string>
+    <string name="ingrese_la_contrase_a">Ingrese la Contraseña</string>
+    <string name="guardar">Guardar</string>
+    <string name="todo">TODO</string>
+    <string name="ingrese_permisos">Ingrese Permisos</string>
+    <string name="todo2323">TODO</string>
+    <string name="crear_base">Crear Base</string>
+    <string name="crear_usuario23">Crear Usuario</string>
+    <string name="id">id</string>
+    <string name="nombre">Nombre</string>
+    <string name="contrasenia">Contrasenia</string>
+    <string name="permisos">Permisos</string>
+    <string name="todo2343">TODO</string>
+    <string name="mostrar_lista">Mostrar Lista</string>
+    <string name="buscarsd">Buscar</string>
+    <string name="ingrese_el_id_para_buscar">Ingrese el Id para Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="buscar_editar">Buscar/Editar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
